@@ -59,3 +59,5 @@ Integrating machine learning models for smarter intent classification.
 Deploying it on a web platform using Flask or Streamlit.
 
 # OUTPUT:
+
+<img width="1255" height="178" alt="Image" src="https://github.com/user-attachments/assets/36155e9a-33b6-49ea-a84a-433be3d217a6" />
